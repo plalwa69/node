@@ -17,4 +17,4 @@ app.listen(port, () => {
 
 //docker login
 //docker build -t imagename .
-//docker run -p 3000:3000
+//docker run -p 3000:3000 imagename
